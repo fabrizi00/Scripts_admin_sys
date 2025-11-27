@@ -1,1 +1,1 @@
-script.sh : monitoring quota soft limit every week 
+script.sh : monitoring quota soft limit every
